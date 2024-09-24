@@ -7,3 +7,4 @@ export async function getCurrentUser() {
 
   return session?.user
 }
+// Auto-generated comment for change 14
