@@ -13,3 +13,4 @@ export const proPlan: SubscriptionPlan = {
   description: "The PRO plan has unlimited posts.",
   stripePriceId: process.env.STRIPE_PRO_MONTHLY_PLAN_ID || "",
 }
+// Auto-generated comment for change 7
