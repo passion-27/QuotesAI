@@ -14,3 +14,5 @@ export const proPlan: SubscriptionPlan = {
   stripePriceId: process.env.STRIPE_PRO_MONTHLY_PLAN_ID || "",
 }
 // Auto-generated comment for change 7
+
+// Auto-generated comment for change 6
